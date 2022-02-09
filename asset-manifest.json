@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pixel-perfect/static/css/main.b21308ee.css",
-    "main.js": "/Pixel-perfect/static/js/main.ffe990d0.js",
+    "main.css": "/Pixel-perfect/static/css/main.c33dbd83.css",
+    "main.js": "/Pixel-perfect/static/js/main.3a7e1265.js",
     "static/media/Livvic-Black.ttf": "/Pixel-perfect/static/media/Livvic-Black.5c5902314d524690e85b.ttf",
     "static/media/Livvic-Light.ttf": "/Pixel-perfect/static/media/Livvic-Light.00ab7fdbfbb47fc8e788.ttf",
     "static/media/Livvic-Bold.ttf": "/Pixel-perfect/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
@@ -10,6 +10,9 @@
     "static/media/Livvic-Regular.ttf": "/Pixel-perfect/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "static/media/Livvic-Medium.ttf": "/Pixel-perfect/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
     "static/media/Livvic-Thin.ttf": "/Pixel-perfect/static/media/Livvic-Thin.1c5099afea33fa966d62.ttf",
+    "static/media/avatar-kady.jpg": "/Pixel-perfect/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
+    "static/media/avatar-arthur.jpg": "/Pixel-perfect/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/avatar-aiysha.jpg": "/Pixel-perfect/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
     "static/media/pros-icon-2.svg": "/Pixel-perfect/static/media/pros-icon-2.693b71c2ad141ac16decf76bd5f69420.svg",
     "static/media/pros-icon-1.svg": "/Pixel-perfect/static/media/pros-icon-1.4f49339de422af72f02e3831fed01972.svg",
     "static/media/logo.svg": "/Pixel-perfect/static/media/logo.e4957b37f723db3bd7e0443a1054000a.svg",
@@ -24,11 +27,12 @@
     "index.html": "/Pixel-perfect/index.html",
     "static/media/facebook.svg": "/Pixel-perfect/static/media/facebook.aa554c39774fdcc69a00f5c9386f81cb.svg",
     "static/media/testi-top-left.svg": "/Pixel-perfect/static/media/testi-top-left.f86c76a680a7aa9e08ddef54f6c0a37a.svg",
-    "main.b21308ee.css.map": "/Pixel-perfect/static/css/main.b21308ee.css.map",
-    "main.ffe990d0.js.map": "/Pixel-perfect/static/js/main.ffe990d0.js.map"
+    "static/media/hamburger.svg": "/Pixel-perfect/static/media/hamburger.fb9ca7750757982006b217595f296071.svg",
+    "main.c33dbd83.css.map": "/Pixel-perfect/static/css/main.c33dbd83.css.map",
+    "main.3a7e1265.js.map": "/Pixel-perfect/static/js/main.3a7e1265.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21308ee.css",
-    "static/js/main.ffe990d0.js"
+    "static/css/main.c33dbd83.css",
+    "static/js/main.3a7e1265.js"
   ]
 }
